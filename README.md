@@ -1,2 +1,1 @@
-# PrepCourse-Henry-
-este es un repositorio de pureba de henry M2
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde git hub a mi escritorio local
